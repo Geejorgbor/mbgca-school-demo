@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="230" viewBox="0 0 200 230" role="img" aria-label="MBGCA crest"><defs><linearGradient id="kg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbe7a6"/><stop offset=".45" stop-color="#d4a53c"/><stop offset="1" stop-color="#94680f"/></linearGradient><linearGradient id="kn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#244c9e"/><stop offset="1" stop-color="#081738"/></linearGradient><linearGradient id="ks" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".25"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<path d="M100 4 L188 32 V110 C188 166 150 204 100 226 C50 204 12 166 12 110 V32 Z" fill="url(#kg)"/>
+<path d="M100 16 L176 40 V110 C176 158 143 191 100 211 C57 191 24 158 24 110 V40 Z" fill="url(#kn)"/>
+<path d="M100 16 L24 40 V110 C24 158 57 191 100 211 Z" fill="url(#ks)"/>
+<g fill="url(#kg)"><rect x="93" y="30" width="14" height="72" rx="2"/><rect x="72" y="50" width="56" height="13" rx="2"/></g>
+<g fill="#f3d27a" opacity=".9"><circle cx="48" cy="62" r="3"/><circle cx="152" cy="62" r="3"/><circle cx="56" cy="84" r="2"/><circle cx="144" cy="84" r="2"/></g>
+<path d="M48 116 Q74 104 98 117 V158 Q74 146 48 156 Z" fill="#fff"/><path d="M152 116 Q126 104 102 117 V158 Q126 146 152 156 Z" fill="#eef2fb"/>
+<g stroke="#9fb0d6" stroke-width="2" fill="none"><path d="M58 124 Q76 118 90 125M58 134 Q76 128 90 135M58 144 Q76 138 90 145M110 125 Q124 118 142 124M110 135 Q124 128 142 134M110 145 Q124 138 142 144"/></g>
+<path d="M22 168 H178 L168 185 L178 202 H22 L32 185 Z" fill="url(#kg)" stroke="#7a560c" stroke-width="1.5"/>
+<text x="100" y="192" text-anchor="middle" font-family="Plus Jakarta Sans,Inter,sans-serif" font-weight="800" font-size="22" letter-spacing="4" fill="#0b1f4b">MBGCA</text></svg>
